@@ -1,9 +1,0 @@
-{
-  "generators" :
-  {
-    "topaz" :
-    {
-      "amountPerChunk" : 0
-    }
-  }
-}

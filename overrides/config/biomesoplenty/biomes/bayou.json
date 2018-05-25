@@ -1,9 +1,0 @@
-{
-  "generators" :
-  {
-    "malachite" :
-    {
-      "amountPerChunk" : 0
-    }
-  }
-}
