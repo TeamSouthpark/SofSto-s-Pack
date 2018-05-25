@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "SofSto's Pack (1)",
-  "version": "2018-05-20",
+  "version": "2018-05-25",
   "author": "5t0rmr1d3r",
   "files": [
     {
@@ -31,7 +31,7 @@
     },
     {
       "projectID": 228027,
-      "fileID": 2456043,
+      "fileID": 2565070,
       "required": true
     },
     {
@@ -106,7 +106,7 @@
     },
     {
       "projectID": 237167,
-      "fileID": 2561795,
+      "fileID": 2565616,
       "required": true
     },
     {
@@ -156,7 +156,7 @@
     },
     {
       "projectID": 231095,
-      "fileID": 2541267,
+      "fileID": 2563888,
       "required": true
     },
     {
@@ -201,7 +201,7 @@
     },
     {
       "projectID": 238222,
-      "fileID": 2562124,
+      "fileID": 2565124,
       "required": true
     },
     {
@@ -221,7 +221,7 @@
     },
     {
       "projectID": 237102,
-      "fileID": 2561796,
+      "fileID": 2565623,
       "required": true
     },
     {
@@ -256,7 +256,7 @@
     },
     {
       "projectID": 247401,
-      "fileID": 2561957,
+      "fileID": 2564905,
       "required": true
     },
     {
@@ -316,7 +316,7 @@
     },
     {
       "projectID": 266515,
-      "fileID": 2563319,
+      "fileID": 2564729,
       "required": true
     },
     {
@@ -336,7 +336,7 @@
     },
     {
       "projectID": 229218,
-      "fileID": 2556244,
+      "fileID": 2563997,
       "required": true
     },
     {
@@ -351,7 +351,7 @@
     },
     {
       "projectID": 274159,
-      "fileID": 2558701,
+      "fileID": 2564468,
       "required": true
     },
     {
@@ -406,12 +406,12 @@
     },
     {
       "projectID": 242638,
-      "fileID": 2559686,
+      "fileID": 2564963,
       "required": true
     },
     {
       "projectID": 224476,
-      "fileID": 2552502,
+      "fileID": 2565122,
       "required": true
     },
     {
@@ -446,7 +446,7 @@
     },
     {
       "projectID": 278493,
-      "fileID": 2552136,
+      "fileID": 2565232,
       "required": true
     },
     {
@@ -556,7 +556,7 @@
     },
     {
       "projectID": 236542,
-      "fileID": 2563342,
+      "fileID": 2565333,
       "required": true
     },
     {
@@ -591,7 +591,7 @@
     },
     {
       "projectID": 242195,
-      "fileID": 2561119,
+      "fileID": 2563855,
       "required": true
     },
     {
@@ -636,7 +636,7 @@
     },
     {
       "projectID": 260327,
-      "fileID": 2550308,
+      "fileID": 2565372,
       "required": true
     },
     {
@@ -646,7 +646,7 @@
     },
     {
       "projectID": 223628,
-      "fileID": 2558648,
+      "fileID": 2565186,
       "required": true
     },
     {
@@ -666,17 +666,17 @@
     },
     {
       "projectID": 220318,
-      "fileID": 2562218,
+      "fileID": 2564031,
       "required": true
     },
     {
       "projectID": 293268,
-      "fileID": 2562796,
+      "fileID": 2564467,
       "required": true
     },
     {
       "projectID": 293968,
-      "fileID": 2562671,
+      "fileID": 2564450,
       "required": true
     },
     {
@@ -701,12 +701,37 @@
     },
     {
       "projectID": 292785,
-      "fileID": 2562712,
+      "fileID": 2563826,
       "required": true
     },
     {
       "projectID": 292752,
       "fileID": 2563383,
+      "required": true
+    },
+    {
+      "projectID": 224599,
+      "fileID": 2564176,
+      "required": true
+    },
+    {
+      "projectID": 278406,
+      "fileID": 2481852,
+      "required": true
+    },
+    {
+      "projectID": 270183,
+      "fileID": 2558022,
+      "required": true
+    },
+    {
+      "projectID": 60089,
+      "fileID": 2462627,
+      "required": true
+    },
+    {
+      "projectID": 286230,
+      "fileID": 2565195,
       "required": true
     }
   ],
