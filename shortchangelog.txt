@@ -1,0 +1,156 @@
+SofSto's Pack (1) 2018-06-03 to SofSto's Pack (1) 2018-06-12
+
+Updated:
+	Advanced Rocketry (went from AdvancedRocketry 1.12.2-1.4.0-33-UNSTABLE build -33 for 1.12.2 to AdvancedRocketry 1.12.2-1.4.0-84-UNSTABLE build -84 for 1.12.2):
+		AdvancedRocketry 1.12.2-1.4.0-84-UNSTABLE build -84 for 1.12.2:
+			https://minecraft.curseforge.com/projects/advanced-rocketry/files/2569792
+		AdvancedRocketry 1.12.2-1.4.0-83-UNSTABLE build -83 for 1.12.2:
+			https://minecraft.curseforge.com/projects/advanced-rocketry/files/2569043
+
+	AppleCore (went from AppleCore-mc1.12.2-3.1.1.jar to AppleCore-mc1.12.2-3.1.3.jar):
+		AppleCore-mc1.12.2-3.1.3.jar:
+			https://minecraft.curseforge.com/projects/applecore/files/2571935
+
+	CodeChicken Lib 1.8.+ (went from CodeChicken Lib 1.12.2-3.1.8.341-universal to CodeChicken Lib 1.12.2-3.1.9.344-universal):
+		CodeChicken Lib 1.12.2-3.1.9.344-universal:
+			No changelog provided.
+
+	Comforts (went from comforts-1.12.2-1.1.1.1.jar to comforts-1.12.2-1.1.2.jar):
+		comforts-1.12.2-1.1.2.jar:
+			https://minecraft.curseforge.com/projects/comforts/files/2571503
+
+	ConnectedTexturesMod (went from CTM - MC1.12-0.2.3.12 to CTM - MC1.12-0.3.0.15):
+		CTM - MC1.12-0.3.0.15:
+			https://minecraft.curseforge.com/projects/ctm/files/2568996
+
+	Dynamic Surroundings (went from DynamicSurroundings-1.12.2-3.4.9.13.jar to DynamicSurroundings-1.12.2-3.4.9.14.jar):
+		DynamicSurroundings-1.12.2-3.4.9.14.jar:
+			https://minecraft.curseforge.com/projects/dynamic-surroundings/files/2571988
+
+	Dynamic Trees (went from DynamicTrees-1.12.2-0.7.7e.jar to DynamicTrees-1.12.2-0.7.8.jar):
+		DynamicTrees-1.12.2-0.7.8.jar:
+			https://minecraft.curseforge.com/projects/dynamictrees/files/2571383
+
+	Ender IO (went from Ender IO - 5.0.25 to Ender IO - 5.0.26):
+		Ender IO - 5.0.26:
+			https://minecraft.curseforge.com/projects/ender-io/files/2569528
+
+	EnderCore (went from EnderCore - 1.12.2-0.5.30 to EnderCore - 1.12.2-0.5.31):
+		EnderCore - 1.12.2-0.5.31:
+			https://minecraft.curseforge.com/projects/endercore/files/2571470
+
+	FTB Utilities (went from FTBUtilities-5.1.0.26.jar to FTBUtilities-5.1.0.27.jar):
+		FTBUtilities-5.1.0.27.jar:
+			https://minecraft.curseforge.com/projects/ftb-utilities/files/2570799
+
+	FTBLib (went from FTBLib-5.1.0.21.jar to FTBLib-5.1.0.22.jar):
+		FTBLib-5.1.0.22.jar:
+			https://minecraft.curseforge.com/projects/ftblib/files/2570798
+
+	Hammer Core (went from [1.12.2] Hammer Core - 1.9.9.8 to [1.12.2] Hammer Core - 1.9.9.11):
+		[1.12.2] Hammer Core - 1.9.9.11:
+			https://minecraft.curseforge.com/projects/hammer-core/files/2570957
+		[1.12.2] Hammer Core - 1.9.9.10:
+			https://minecraft.curseforge.com/projects/hammer-core/files/2569991
+		[1.12.2] Hammer Core - 1.9.9.9:
+			https://minecraft.curseforge.com/projects/hammer-core/files/2568962
+
+	Industrial Craft (went from industrialcraft-2-2.8.81-ex112.jar to industrialcraft-2-2.8.84-ex112.jar):
+		industrialcraft-2-2.8.84-ex112.jar:
+			https://minecraft.curseforge.com/projects/industrial-craft/files/2572020
+		industrialcraft-2-2.8.83-ex112.jar:
+			https://minecraft.curseforge.com/projects/industrial-craft/files/2567774
+		industrialcraft-2-2.8.82-ex112.jar:
+			https://minecraft.curseforge.com/projects/industrial-craft/files/2567632
+
+	Just Enough Items (JEI) (went from jei_1.12.2-4.9.2.196.jar to jei_1.12.2-4.10.0.198.jar):
+		View changelog at:
+			https://minecraft.curseforge.com/projects/jei/files/2571131
+
+	LibVulpes (went from LibVulpes 1.12.2-0.2.8-31-UNSTABLE build -31 for 1.12.2 to LibVulpes 1.12.2-0.2.8-32-UNSTABLE build -32 for 1.12.2):
+		LibVulpes 1.12.2-0.2.8-32-UNSTABLE build -32 for 1.12.2:
+			https://minecraft.curseforge.com/projects/libvulpes/files/2568853
+
+	McJtyLib (went from mcjtylib-1.12-2.6.7.jar to McJtyLib - 1.12-3.0.0):
+		McJtyLib - 1.12-3.0.0:
+			https://minecraft.curseforge.com/projects/mcjtylib/files/2569362
+		McJtyLib - 1.12-3.0.0-alpha:
+			https://minecraft.curseforge.com/projects/mcjtylib/files/2567259
+
+	OpenModularTurrets (went from openmodularturrets-1.12.2-3.0.1-254.jar to openmodularturrets-1.12.2-3.0.1-257.jar):
+		openmodularturrets-1.12.2-3.0.1-257.jar:
+			https://minecraft.curseforge.com/projects/openmodularturrets/files/2570330
+		openmodularturrets-1.12.2-3.0.1-255.jar:
+			https://minecraft.curseforge.com/projects/openmodularturrets/files/2569324
+
+	RFTools (went from rftools-1.12-7.33.jar to RFTools - 1.12-7.51):
+		RFTools - 1.12-7.51:
+			https://minecraft.curseforge.com/projects/rftools/files/2569922
+		RFTools - 1.12-7.50:
+			https://minecraft.curseforge.com/projects/rftools/files/2569381
+		RFTools - 1.12-7.50-alpha:
+			https://minecraft.curseforge.com/projects/rftools/files/2567314
+
+	RFTools Control (went from rftoolsctrl-1.12-1.8.1.jar to RFToolsControl - 1.12-1.9.0):
+		RFToolsControl - 1.12-1.9.0:
+			https://minecraft.curseforge.com/projects/rftools-control/files/2569390
+		RFToolsControl - 1.12-1.9.0-alpha:
+			https://minecraft.curseforge.com/projects/rftools-control/files/2567296
+
+	RFTools Dimensions (went from rftoolsdim-1.12-5.53.jar to RFToolsDimensions - 1.12-5.60):
+		RFToolsDimensions - 1.12-5.60:
+			https://minecraft.curseforge.com/projects/rftools-dimensions/files/2569383
+		RFToolsDimensions - 1.12-5.60-alpha:
+			https://minecraft.curseforge.com/projects/rftools-dimensions/files/2567299
+
+	RFTools Power (went from rftoolspower-1.12-1.0.0.jar to RFToolsPower - 1.12-1.1.0):
+		RFToolsPower - 1.12-1.1.0:
+			https://minecraft.curseforge.com/projects/rftools-power/files/2569391
+		RFToolsPower - 1.12-1.1.0-alpha:
+			https://minecraft.curseforge.com/projects/rftools-power/files/2567326
+
+	Serene Seasons (went from SereneSeasons-1.12.2-1.2.2-universal.jar to SereneSeasons-1.12.2-1.2.3-universal.jar):
+		SereneSeasons-1.12.2-1.2.3-universal.jar:
+			https://minecraft.curseforge.com/projects/serene-seasons/files/2569832
+
+	Shadowfacts' Forgelin (went from Forgelin-1.6.0.jar to Forgelin-1.7.2.jar):
+		Forgelin-1.7.2.jar:
+			https://minecraft.curseforge.com/projects/shadowfacts-forgelin/files/2571478
+
+	Thaumic JEI (went from ThaumicJEI-1.12.2-1.3.0-11.jar to ThaumicJEI-1.12.2-1.4.0-14.jar):
+		ThaumicJEI-1.12.2-1.4.0-14.jar:
+			https://minecraft.curseforge.com/projects/thaumic-jei/files/2571662
+		ThaumicJEI-1.12.2-1.3.1-12.jar:
+			https://minecraft.curseforge.com/projects/thaumic-jei/files/2568938
+
+	The One Probe (went from theoneprobe-1.12-1.4.22.jar to TheOneProbe - 1.12-1.4.23):
+		TheOneProbe - 1.12-1.4.23:
+			https://minecraft.curseforge.com/projects/the-one-probe/files/2569399
+		theoneprobe-1.12-1.4.23-alpha.jar:
+			https://minecraft.curseforge.com/projects/the-one-probe/files/2567329
+
+	Thermal Dynamics (went from [Archived file] to ThermalDynamics-1.12.2-2.5.1.14-universal.jar):
+		ThermalDynamics-1.12.2-2.5.1.14-universal.jar:
+			https://minecraft.curseforge.com/projects/thermal-dynamics/files/2569008
+
+	Tinkers Construct (went from TConstruct-1.12.2-2.10.1.84.jar to TConstruct-1.12.2-2.10.1.87.jar):
+		TConstruct-1.12.2-2.10.1.87.jar:
+			https://minecraft.curseforge.com/projects/tinkers-construct/files/2571785
+
+	Tinkers' Tool Leveling (went from TinkerToolLeveling-1.12-1.0.4.jar to TinkerToolLeveling-1.12.2-1.0.5.jar):
+		TinkerToolLeveling-1.12.2-1.0.5.jar:
+			https://minecraft.curseforge.com/projects/tinkers-tool-leveling/files/2570118
+
+	Underground Biomes (went from UndergroundBiomesConstructs-1.12-1.1.5.jar to UndergroundBiomesConstructs-1.12-1.2.0.jar):
+		UndergroundBiomesConstructs-1.12-1.2.0.jar:
+			https://minecraft.curseforge.com/projects/underground-biomes/files/2570628
+
+	VanillaFix (went from VanillaFix-1.0.7-72.jar to VanillaFix-1.0.8-88.jar):
+		VanillaFix-1.0.8-88.jar:
+			https://minecraft.curseforge.com/projects/vanillafix/files/2570263
+
+	Whoosh (went from Whoosh-1.12.2-0.1.10-universal.jar to Whoosh 0.1.11.1):
+		Whoosh 0.1.11.1:
+			https://minecraft.curseforge.com/projects/whoosh/files/2570979
+
+* Generated using https://github.com/TheRandomLabs/ChangelogGenerator (1.9.2)
