@@ -11,12 +11,12 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "SofSto's Pack (1)",
-  "version": "2018-06-12",
+  "version": "2018-06-16",
   "author": "5t0rmr1d3r",
   "files": [
     {
       "projectID": 254284,
-      "fileID": 2545190,
+      "fileID": 2572851,
       "required": true
     },
     {
@@ -32,11 +32,6 @@
     {
       "projectID": 228027,
       "fileID": 2565070,
-      "required": true
-    },
-    {
-      "projectID": 271950,
-      "fileID": 2560133,
       "required": true
     },
     {
@@ -156,7 +151,7 @@
     },
     {
       "projectID": 231095,
-      "fileID": 2563888,
+      "fileID": 2573151,
       "required": true
     },
     {
@@ -201,7 +196,7 @@
     },
     {
       "projectID": 238222,
-      "fileID": 2571131,
+      "fileID": 2572552,
       "required": true
     },
     {
@@ -241,7 +236,7 @@
     },
     {
       "projectID": 276951,
-      "fileID": 2571503,
+      "fileID": 2572667,
       "required": true
     },
     {
@@ -256,7 +251,7 @@
     },
     {
       "projectID": 247401,
-      "fileID": 2570957,
+      "fileID": 2572912,
       "required": true
     },
     {
@@ -276,7 +271,7 @@
     },
     {
       "projectID": 248453,
-      "fileID": 2571478,
+      "fileID": 2573311,
       "required": true
     },
     {
@@ -291,12 +286,12 @@
     },
     {
       "projectID": 224641,
-      "fileID": 2569922,
+      "fileID": 2572230,
       "required": true
     },
     {
       "projectID": 59751,
-      "fileID": 2567022,
+      "fileID": 2572852,
       "required": true
     },
     {
@@ -316,7 +311,7 @@
     },
     {
       "projectID": 266515,
-      "fileID": 2572025,
+      "fileID": 2572080,
       "required": true
     },
     {
@@ -406,7 +401,7 @@
     },
     {
       "projectID": 242638,
-      "fileID": 2572020,
+      "fileID": 2573291,
       "required": true
     },
     {
@@ -426,7 +421,7 @@
     },
     {
       "projectID": 233105,
-      "fileID": 2569362,
+      "fileID": 2572061,
       "required": true
     },
     {
@@ -581,12 +576,12 @@
     },
     {
       "projectID": 267193,
-      "fileID": 2556079,
+      "fileID": 2572939,
       "required": false
     },
     {
       "projectID": 228525,
-      "fileID": 2554421,
+      "fileID": 2572825,
       "required": true
     },
     {
@@ -731,7 +726,7 @@
     },
     {
       "projectID": 286230,
-      "fileID": 2567366,
+      "fileID": 2572528,
       "required": true
     }
   ],
