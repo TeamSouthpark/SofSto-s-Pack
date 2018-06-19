@@ -1,4 +1,4 @@
-SofSto's Pack (1) 2018-06-03 to SofSto's Pack (1) 2018-06-12
+SofSto's Pack (1) 2018-06-03 to SofSto's Pack (1) 2018-06-16
 
 Updated:
 	Advanced Rocketry (went from AdvancedRocketry 1.12.2-1.4.0-33-UNSTABLE build -33 for 1.12.2 to AdvancedRocketry 1.12.2-1.4.0-84-UNSTABLE build -84 for 1.12.2):
@@ -7,15 +7,47 @@ Updated:
 		AdvancedRocketry 1.12.2-1.4.0-83-UNSTABLE build -83 for 1.12.2:
 			https://minecraft.curseforge.com/projects/advanced-rocketry/files/2569043
 
+	AmbientSounds 2.0 (went from AmbientSounds_v2.2.5_mc1.12.2.jar to AmbientSounds_v2.3_mc1.12.2.jar):
+		AmbientSounds_v2.3_mc1.12.2.jar:
+			https://minecraft.curseforge.com/projects/ambientsounds/files/2572851
+
 	AppleCore (went from AppleCore-mc1.12.2-3.1.1.jar to AppleCore-mc1.12.2-3.1.3.jar):
 		AppleCore-mc1.12.2-3.1.3.jar:
 			https://minecraft.curseforge.com/projects/applecore/files/2571935
+
+	Bookshelf (went from Bookshelf-1.12.2-2.3.544.jar to Bookshelf-1.12.2-2.3.552.jar):
+		Bookshelf-1.12.2-2.3.552.jar:
+			https://minecraft.curseforge.com/projects/bookshelf/files/2572825
+		Bookshelf-1.12.2-2.3.551.jar:
+			https://minecraft.curseforge.com/projects/bookshelf/files/2572820
+		Bookshelf-1.12.2-2.3.550.jar:
+			https://minecraft.curseforge.com/projects/bookshelf/files/2571875
+		Bookshelf-1.12.2-2.3.549.jar:
+			https://minecraft.curseforge.com/projects/bookshelf/files/2567708
+		Bookshelf-1.12.2-2.3.548.jar:
+			https://minecraft.curseforge.com/projects/bookshelf/files/2567459
+		Bookshelf-1.12.2-2.3.547.jar:
+			https://minecraft.curseforge.com/projects/bookshelf/files/2567455
+		Bookshelf-1.12.2-2.3.546.jar:
+			https://minecraft.curseforge.com/projects/bookshelf/files/2566265
+		Bookshelf-1.12.2-2.3.545.jar:
+			https://minecraft.curseforge.com/projects/bookshelf/files/2565773
+
+	Chisels & Bits (went from chiselsandbits-14.17.jar to chiselsandbits-14.18.jar):
+		chiselsandbits-14.18.jar:
+			https://minecraft.curseforge.com/projects/chisels-bits/files/2573151
+
+	Chunk-Pregenerator (went from Chunk Pregenerator V1.12-1.8 to Chunk Pregenerator V1.12-1.8.1):
+		Chunk Pregenerator V1.12-1.8.1:
+			https://minecraft.curseforge.com/projects/chunkpregenerator/files/2572939
 
 	CodeChicken Lib 1.8.+ (went from CodeChicken Lib 1.12.2-3.1.8.341-universal to CodeChicken Lib 1.12.2-3.1.9.344-universal):
 		CodeChicken Lib 1.12.2-3.1.9.344-universal:
 			No changelog provided.
 
-	Comforts (went from comforts-1.12.2-1.1.1.1.jar to comforts-1.12.2-1.1.2.jar):
+	Comforts (went from comforts-1.12.2-1.1.1.1.jar to comforts-1.12.2-1.1.3.jar):
+		comforts-1.12.2-1.1.3.jar:
+			https://minecraft.curseforge.com/projects/comforts/files/2572667
 		comforts-1.12.2-1.1.2.jar:
 			https://minecraft.curseforge.com/projects/comforts/files/2571503
 
@@ -27,7 +59,7 @@ Updated:
 		DynamicSurroundings-1.12.2-3.4.9.14.jar:
 			https://minecraft.curseforge.com/projects/dynamic-surroundings/files/2571988
 
-	Dynamic Trees (went from DynamicTrees-1.12.2-0.7.7e.jar to DynamicTrees-1.12.2-0.7.8.jar):
+	Dynamic Trees (went from [Archived file] to DynamicTrees-1.12.2-0.7.8.jar):
 		DynamicTrees-1.12.2-0.7.8.jar:
 			https://minecraft.curseforge.com/projects/dynamictrees/files/2571383
 
@@ -47,31 +79,39 @@ Updated:
 		FTBLib-5.1.0.22.jar:
 			https://minecraft.curseforge.com/projects/ftblib/files/2570798
 
-	Hammer Core (went from [1.12.2] Hammer Core - 1.9.9.8 to [1.12.2] Hammer Core - 1.9.9.11):
-		[1.12.2] Hammer Core - 1.9.9.11:
-			https://minecraft.curseforge.com/projects/hammer-core/files/2570957
-		[1.12.2] Hammer Core - 1.9.9.10:
-			https://minecraft.curseforge.com/projects/hammer-core/files/2569991
-		[1.12.2] Hammer Core - 1.9.9.9:
-			https://minecraft.curseforge.com/projects/hammer-core/files/2568962
+	Forestry (went from forestry_1.12.2-5.8.0.295.jar to forestry_1.12.2-5.8.0.302.jar):
+		View changelog at:
+			https://minecraft.curseforge.com/projects/forestry/files/2572852
 
-	Industrial Craft (went from industrialcraft-2-2.8.81-ex112.jar to industrialcraft-2-2.8.84-ex112.jar):
+	Hammer Core (went from [Archived file] to [1.12.2] Hammer Core - 1.9.9.14):
+		[1.12.2] Hammer Core - 1.9.9.14:
+			https://minecraft.curseforge.com/projects/hammer-core/files/2572912
+
+	Industrial Craft (went from industrialcraft-2-2.8.81-ex112.jar to industrialcraft-2-2.8.86-ex112.jar):
+		industrialcraft-2-2.8.86-ex112.jar:
+			https://minecraft.curseforge.com/projects/industrial-craft/files/2573291
+		industrialcraft-2-2.8.85-ex112.jar:
+			https://minecraft.curseforge.com/projects/industrial-craft/files/2572795
 		industrialcraft-2-2.8.84-ex112.jar:
 			https://minecraft.curseforge.com/projects/industrial-craft/files/2572020
 		industrialcraft-2-2.8.83-ex112.jar:
 			https://minecraft.curseforge.com/projects/industrial-craft/files/2567774
-		industrialcraft-2-2.8.82-ex112.jar:
-			https://minecraft.curseforge.com/projects/industrial-craft/files/2567632
 
-	Just Enough Items (JEI) (went from jei_1.12.2-4.9.2.196.jar to jei_1.12.2-4.10.0.198.jar):
+	Industrial Foregoing (went from industrialforegoing-1.12.2-1.10.0-173.jar to industrialforegoing-1.12.2-1.10.1-176.jar):
+		industrialforegoing-1.12.2-1.10.1-176.jar:
+			https://minecraft.curseforge.com/projects/industrial-foregoing/files/2572080
+
+	Just Enough Items (JEI) (went from jei_1.12.2-4.9.2.196.jar to jei_1.12.2-4.10.0.199.jar):
 		View changelog at:
-			https://minecraft.curseforge.com/projects/jei/files/2571131
+			https://minecraft.curseforge.com/projects/jei/files/2572552
 
 	LibVulpes (went from LibVulpes 1.12.2-0.2.8-31-UNSTABLE build -31 for 1.12.2 to LibVulpes 1.12.2-0.2.8-32-UNSTABLE build -32 for 1.12.2):
 		LibVulpes 1.12.2-0.2.8-32-UNSTABLE build -32 for 1.12.2:
 			https://minecraft.curseforge.com/projects/libvulpes/files/2568853
 
-	McJtyLib (went from mcjtylib-1.12-2.6.7.jar to McJtyLib - 1.12-3.0.0):
+	McJtyLib (went from mcjtylib-1.12-2.6.7.jar to McJtyLib - 1.12-3.0.1):
+		McJtyLib - 1.12-3.0.1:
+			https://minecraft.curseforge.com/projects/mcjtylib/files/2572061
 		McJtyLib - 1.12-3.0.0:
 			https://minecraft.curseforge.com/projects/mcjtylib/files/2569362
 		McJtyLib - 1.12-3.0.0-alpha:
@@ -83,7 +123,11 @@ Updated:
 		openmodularturrets-1.12.2-3.0.1-255.jar:
 			https://minecraft.curseforge.com/projects/openmodularturrets/files/2569324
 
-	RFTools (went from rftools-1.12-7.33.jar to RFTools - 1.12-7.51):
+	RFTools (went from rftools-1.12-7.33.jar to RFTools - 1.12-7.53):
+		RFTools - 1.12-7.53:
+			https://minecraft.curseforge.com/projects/rftools/files/2572230
+		RFTools - 1.12-7.52:
+			https://minecraft.curseforge.com/projects/rftools/files/2572062
 		RFTools - 1.12-7.51:
 			https://minecraft.curseforge.com/projects/rftools/files/2569922
 		RFTools - 1.12-7.50:
@@ -113,7 +157,9 @@ Updated:
 		SereneSeasons-1.12.2-1.2.3-universal.jar:
 			https://minecraft.curseforge.com/projects/serene-seasons/files/2569832
 
-	Shadowfacts' Forgelin (went from Forgelin-1.6.0.jar to Forgelin-1.7.2.jar):
+	Shadowfacts' Forgelin (went from Forgelin-1.6.0.jar to Forgelin-1.7.4.jar):
+		Forgelin-1.7.4.jar:
+			https://minecraft.curseforge.com/projects/shadowfacts-forgelin/files/2573311
 		Forgelin-1.7.2.jar:
 			https://minecraft.curseforge.com/projects/shadowfacts-forgelin/files/2571478
 
@@ -145,6 +191,10 @@ Updated:
 		UndergroundBiomesConstructs-1.12-1.2.0.jar:
 			https://minecraft.curseforge.com/projects/underground-biomes/files/2570628
 
+	Unloader (went from unloader-1.1.0.jar to unloader-1.2.0.jar):
+		unloader-1.2.0.jar:
+			https://minecraft.curseforge.com/projects/unloader/files/2572528
+
 	VanillaFix (went from VanillaFix-1.0.7-72.jar to VanillaFix-1.0.8-88.jar):
 		VanillaFix-1.0.8-88.jar:
 			https://minecraft.curseforge.com/projects/vanillafix/files/2570263
@@ -153,4 +203,7 @@ Updated:
 		Whoosh 0.1.11.1:
 			https://minecraft.curseforge.com/projects/whoosh/files/2570979
 
-* Generated using https://github.com/TheRandomLabs/ChangelogGenerator (1.9.2)
+Removed:
+	- Deleted project
+
+* Generated using https://github.com/TheRandomLabs/ChangelogGenerator (1.9.4)
