@@ -1,209 +1,737 @@
-SofSto's Pack (1) 2018-06-03 to SofSto's Pack (1) 2018-06-16
+SofSto's Pack (1) 2018-06-16 to SofSto's Pack (1) 2018-09-04
+
+Added:
+	- LibEx
 
 Updated:
-	Advanced Rocketry (went from AdvancedRocketry 1.12.2-1.4.0-33-UNSTABLE build -33 for 1.12.2 to AdvancedRocketry 1.12.2-1.4.0-84-UNSTABLE build -84 for 1.12.2):
-		AdvancedRocketry 1.12.2-1.4.0-84-UNSTABLE build -84 for 1.12.2:
-			https://minecraft.curseforge.com/projects/advanced-rocketry/files/2569792
-		AdvancedRocketry 1.12.2-1.4.0-83-UNSTABLE build -83 for 1.12.2:
-			https://minecraft.curseforge.com/projects/advanced-rocketry/files/2569043
+	Advanced Rocketry (went from AdvancedRocketry 1.12.2-1.4.0-84-UNSTABLE build -84 for 1.12.2 to AdvancedRocketry 1.12.2-1.4.0-99-UNSTABLE build -99 for 1.12.2):
+		AdvancedRocketry 1.12.2-1.4.0-99-UNSTABLE build -99 for 1.12.2:
+			https://minecraft.curseforge.com/projects/advanced-rocketry/files/2613524
+		AdvancedRocketry 1.12.2-1.4.0-98-UNSTABLE build -98 for 1.12.2:
+			https://minecraft.curseforge.com/projects/advanced-rocketry/files/2613322
+		AdvancedRocketry 1.12.2-1.4.0-96-UNSTABLE build -96 for 1.12.2:
+			https://minecraft.curseforge.com/projects/advanced-rocketry/files/2605214
+		AdvancedRocketry 1.12.2-1.4.0-95-UNSTABLE build -95 for 1.12.2:
+			https://minecraft.curseforge.com/projects/advanced-rocketry/files/2597915
+		AdvancedRocketry 1.12.2-1.4.0-94-UNSTABLE build -94 for 1.12.2:
+			https://minecraft.curseforge.com/projects/advanced-rocketry/files/2596842
+		AdvancedRocketry 1.12.2-1.4.0-93-UNSTABLE build -93 for 1.12.2:
+			https://minecraft.curseforge.com/projects/advanced-rocketry/files/2591238
+		AdvancedRocketry 1.12.2-1.4.0-92-UNSTABLE build -92 for 1.12.2:
+			https://minecraft.curseforge.com/projects/advanced-rocketry/files/2588487
+		AdvancedRocketry 1.12.2-1.4.0-91-UNSTABLE build -91 for 1.12.2:
+			https://minecraft.curseforge.com/projects/advanced-rocketry/files/2586797
+		AdvancedRocketry 1.12.2-1.4.0-90-UNSTABLE build -90 for 1.12.2:
+			https://minecraft.curseforge.com/projects/advanced-rocketry/files/2584568
+		AdvancedRocketry 1.12.2-1.4.0-89-UNSTABLE build -89 for 1.12.2:
+			https://minecraft.curseforge.com/projects/advanced-rocketry/files/2583330
+		AdvancedRocketry 1.12.2-1.4.0-88-UNSTABLE build -88 for 1.12.2:
+			https://minecraft.curseforge.com/projects/advanced-rocketry/files/2575801
+		AdvancedRocketry 1.12.2-1.4.0-87-UNSTABLE build -87 for 1.12.2:
+			https://minecraft.curseforge.com/projects/advanced-rocketry/files/2575050
+		AdvancedRocketry 1.12.2-1.4.0-86-UNSTABLE build -86 for 1.12.2:
+			https://minecraft.curseforge.com/projects/advanced-rocketry/files/2574731
+		AdvancedRocketry 1.12.2-1.4.0-85-UNSTABLE build -85 for 1.12.2:
+			https://minecraft.curseforge.com/projects/advanced-rocketry/files/2574429
 
-	AmbientSounds 2.0 (went from AmbientSounds_v2.2.5_mc1.12.2.jar to AmbientSounds_v2.3_mc1.12.2.jar):
-		AmbientSounds_v2.3_mc1.12.2.jar:
-			https://minecraft.curseforge.com/projects/ambientsounds/files/2572851
+	Animania (went from Animania-1.12.2-1.4.8 to Animania-1.12.2-1.5.1.1):
+		Animania-1.12.2-1.5.1.1:
+			https://minecraft.curseforge.com/projects/animania/files/2598331
+		Animania-1.12.2-1.5.1:
+			https://minecraft.curseforge.com/projects/animania/files/2598200
+		Animania-1.12.2-1.5.0:
+			https://minecraft.curseforge.com/projects/animania/files/2598043
 
-	AppleCore (went from AppleCore-mc1.12.2-3.1.1.jar to AppleCore-mc1.12.2-3.1.3.jar):
-		AppleCore-mc1.12.2-3.1.3.jar:
-			https://minecraft.curseforge.com/projects/applecore/files/2571935
+	AppleCore (went from AppleCore-mc1.12.2-3.1.3.jar to AppleCore-mc1.12.2-3.1.4.jar):
+		AppleCore-mc1.12.2-3.1.4.jar:
+			https://minecraft.curseforge.com/projects/applecore/files/2605923
 
-	Bookshelf (went from Bookshelf-1.12.2-2.3.544.jar to Bookshelf-1.12.2-2.3.552.jar):
-		Bookshelf-1.12.2-2.3.552.jar:
-			https://minecraft.curseforge.com/projects/bookshelf/files/2572825
-		Bookshelf-1.12.2-2.3.551.jar:
-			https://minecraft.curseforge.com/projects/bookshelf/files/2572820
-		Bookshelf-1.12.2-2.3.550.jar:
-			https://minecraft.curseforge.com/projects/bookshelf/files/2571875
-		Bookshelf-1.12.2-2.3.549.jar:
-			https://minecraft.curseforge.com/projects/bookshelf/files/2567708
-		Bookshelf-1.12.2-2.3.548.jar:
-			https://minecraft.curseforge.com/projects/bookshelf/files/2567459
-		Bookshelf-1.12.2-2.3.547.jar:
-			https://minecraft.curseforge.com/projects/bookshelf/files/2567455
-		Bookshelf-1.12.2-2.3.546.jar:
-			https://minecraft.curseforge.com/projects/bookshelf/files/2566265
-		Bookshelf-1.12.2-2.3.545.jar:
-			https://minecraft.curseforge.com/projects/bookshelf/files/2565773
+	Applied Energistics 2 (went from appliedenergistics2-rv5-stable-11.jar to appliedenergistics2-rv6-alpha-4.jar):
+		appliedenergistics2-rv6-alpha-4.jar:
+			https://minecraft.curseforge.com/projects/applied-energistics-2/files/2612061
+		appliedenergistics2-rv6-alpha-3.jar:
+			https://minecraft.curseforge.com/projects/applied-energistics-2/files/2582952
+		appliedenergistics2-rv6-alpha-2.jar:
+			https://minecraft.curseforge.com/projects/applied-energistics-2/files/2580831
+		appliedenergistics2-rv6-alpha-1.jar:
+			https://minecraft.curseforge.com/projects/applied-energistics-2/files/2577127
 
-	Chisels & Bits (went from chiselsandbits-14.17.jar to chiselsandbits-14.18.jar):
-		chiselsandbits-14.18.jar:
-			https://minecraft.curseforge.com/projects/chisels-bits/files/2573151
+	Better Builder's Wands (went from Better Builder's Wands 0.11.1 [MC1.12; rev 245] to Better Builder's Wands 0.12.0 [MC1.12; rev 251]):
+		Better Builder's Wands 0.12.0 [MC1.12; rev 251]:
+			https://minecraft.curseforge.com/projects/better-builders-wands/files/2580273
 
-	Chunk-Pregenerator (went from Chunk Pregenerator V1.12-1.8 to Chunk Pregenerator V1.12-1.8.1):
-		Chunk Pregenerator V1.12-1.8.1:
-			https://minecraft.curseforge.com/projects/chunkpregenerator/files/2572939
+	BiblioCraft (went from BiblioCraft v2.4.4 to BiblioCraft v2.4.5):
+		BiblioCraft v2.4.5:
+			https://minecraft.curseforge.com/projects/bibliocraft/files/2574880
 
-	CodeChicken Lib 1.8.+ (went from CodeChicken Lib 1.12.2-3.1.8.341-universal to CodeChicken Lib 1.12.2-3.1.9.344-universal):
-		CodeChicken Lib 1.12.2-3.1.9.344-universal:
+	Biomes O' Plenty (went from BiomesOPlenty-1.12.2-7.0.1.2391-universal.jar to BiomesOPlenty-1.12.2-7.0.1.2399-universal.jar):
+		View changelog at:
+			https://minecraft.curseforge.com/projects/biomes-o-plenty/files/2596390
+
+	Bookshelf (went from Bookshelf-1.12.2-2.3.552.jar to Bookshelf-1.12.2-2.3.553.jar):
+		Bookshelf-1.12.2-2.3.553.jar:
+			https://minecraft.curseforge.com/projects/bookshelf/files/2577067
+
+	Brandon's Core (went from Brandon's Core 1.12-2.4.2.157-universal to BrandonsCore-1.12.2-2.4.4.173-universal):
+		BrandonsCore-1.12.2-2.4.4.173-universal:
+			No changelog provided.
+		Brandon's Core 1.12.2-2.4.3.168-universal:
 			No changelog provided.
 
-	Comforts (went from comforts-1.12.2-1.1.1.1.jar to comforts-1.12.2-1.1.3.jar):
-		comforts-1.12.2-1.1.3.jar:
-			https://minecraft.curseforge.com/projects/comforts/files/2572667
-		comforts-1.12.2-1.1.2.jar:
-			https://minecraft.curseforge.com/projects/comforts/files/2571503
+	Chisel (went from Chisel - MC1.12.2-0.2.0.31 to Chisel - MC1.12.2-0.2.1.34):
+		Chisel - MC1.12.2-0.2.1.34:
+			https://minecraft.curseforge.com/projects/chisel/files/2612810
+		Chisel - MC1.12.2-0.2.1.33:
+			https://minecraft.curseforge.com/projects/chisel/files/2612464
 
-	ConnectedTexturesMod (went from CTM - MC1.12-0.2.3.12 to CTM - MC1.12-0.3.0.15):
-		CTM - MC1.12-0.3.0.15:
-			https://minecraft.curseforge.com/projects/ctm/files/2568996
+	Chisels & Bits (went from chiselsandbits-14.18.jar to chiselsandbits-14.23.jar):
+		chiselsandbits-14.23.jar:
+			https://minecraft.curseforge.com/projects/chisels-bits/files/2609543
+		chiselsandbits-14.22.jar:
+			https://minecraft.curseforge.com/projects/chisels-bits/files/2608148
+		chiselsandbits-14.21.jar:
+			https://minecraft.curseforge.com/projects/chisels-bits/files/2603922
+		chiselsandbits-14.20.jar:
+			https://minecraft.curseforge.com/projects/chisels-bits/files/2588128
+		chiselsandbits-14.19.jar:
+			https://minecraft.curseforge.com/projects/chisels-bits/files/2582173
 
-	Dynamic Surroundings (went from DynamicSurroundings-1.12.2-3.4.9.13.jar to DynamicSurroundings-1.12.2-3.4.9.14.jar):
-		DynamicSurroundings-1.12.2-3.4.9.14.jar:
-			https://minecraft.curseforge.com/projects/dynamic-surroundings/files/2571988
+	Chunk-Pregenerator (went from Chunk Pregenerator V1.12-1.8.1 to Chunk Pregenerator V1.12-1.8.2):
+		Chunk Pregenerator V1.12-1.8.2:
+			https://minecraft.curseforge.com/projects/chunkpregenerator/files/2609221
 
-	Dynamic Trees (went from [Archived file] to DynamicTrees-1.12.2-0.7.8.jar):
-		DynamicTrees-1.12.2-0.7.8.jar:
-			https://minecraft.curseforge.com/projects/dynamictrees/files/2571383
+	CoFH Core (went from CoFHCore-1.12.2-4.5.2.19-universal.jar to CoFHCore-1.12.2-4.5.3.20-universal.jar):
+		CoFHCore-1.12.2-4.5.3.20-universal.jar:
+			https://minecraft.curseforge.com/projects/cofhcore/files/2586247
 
-	Ender IO (went from Ender IO - 5.0.25 to Ender IO - 5.0.26):
-		Ender IO - 5.0.26:
-			https://minecraft.curseforge.com/projects/ender-io/files/2569528
+	CodeChicken Lib 1.8.+ (went from CodeChicken Lib 1.12.2-3.1.9.344-universal to CodeChicken Lib 1.12.2-3.2.1.351-universal):
+		CodeChicken Lib 1.12.2-3.2.1.351-universal:
+			No changelog provided.
+		CodeChicken Lib 1.12.2-3.2.1.350-universal:
+			No changelog provided.
+		CodeChicken Lib 1.12.2-3.2.1.349-universal:
+			No changelog provided.
+		CodeChicken Lib 1.12.2-3.2.0.345-universal:
+			No changelog provided.
 
-	EnderCore (went from EnderCore - 1.12.2-0.5.30 to EnderCore - 1.12.2-0.5.31):
-		EnderCore - 1.12.2-0.5.31:
-			https://minecraft.curseforge.com/projects/endercore/files/2571470
+	Comforts (went from comforts-1.12.2-1.1.3.jar to comforts-1.12.2-1.3.0.jar):
+		comforts-1.12.2-1.3.0.jar:
+			https://minecraft.curseforge.com/projects/comforts/files/2610959
+		comforts-1.12.2-1.2.0.1.jar:
+			https://minecraft.curseforge.com/projects/comforts/files/2610849
+		comforts-1.12.2-1.2.0.jar:
+			https://minecraft.curseforge.com/projects/comforts/files/2585000
 
-	FTB Utilities (went from FTBUtilities-5.1.0.26.jar to FTBUtilities-5.1.0.27.jar):
-		FTBUtilities-5.1.0.27.jar:
-			https://minecraft.curseforge.com/projects/ftb-utilities/files/2570799
+	Compact Drawers (went from CompactDrawers-1.12.2-1.0.2.80.jar to CompactDrawers-1.12.2-1.0.3.86.jar):
+		CompactDrawers-1.12.2-1.0.3.86.jar:
+			https://minecraft.curseforge.com/projects/compactdrawers/files/2579348
+		CompactDrawers-1.12.2-1.0.3.84.jar:
+			https://minecraft.curseforge.com/projects/compactdrawers/files/2579043
+		CompactDrawers-1.12.2-1.0.3.81.jar:
+			https://minecraft.curseforge.com/projects/compactdrawers/files/2578987
 
-	FTBLib (went from FTBLib-5.1.0.21.jar to FTBLib-5.1.0.22.jar):
-		FTBLib-5.1.0.22.jar:
-			https://minecraft.curseforge.com/projects/ftblib/files/2570798
+	ConnectedTexturesMod (went from CTM - MC1.12-0.3.0.15 to CTM - MC1.12.2-0.3.2.18):
+		CTM - MC1.12.2-0.3.2.18:
+			https://minecraft.curseforge.com/projects/ctm/files/2584026
+		CTM - MC1.12.2-0.3.2.17:
+			https://minecraft.curseforge.com/projects/ctm/files/2583875
+		CTM - MC1.12.2-0.3.1.16:
+			https://minecraft.curseforge.com/projects/ctm/files/2578680
 
-	Forestry (went from forestry_1.12.2-5.8.0.295.jar to forestry_1.12.2-5.8.0.302.jar):
+	Dark Utilities (went from DarkUtils-1.12.2-1.8.210.jar to DarkUtils-1.12.2-1.8.211.jar):
+		DarkUtils-1.12.2-1.8.211.jar:
+			https://minecraft.curseforge.com/projects/dark-utilities/files/2575575
+
+	DecoCraft2 (went from Decocraft-2.6.0_1.12.2.jar to Decocraft-2.6.1_1.12.2.jar):
+		Decocraft-2.6.1_1.12.2.jar:
+			https://minecraft.curseforge.com/projects/decocraft2/files/2606852
+
+	DiscordSuite (went from DiscordSuite-2.2.0.jar to DiscordSuite-2.2.4.jar):
+		DiscordSuite-2.2.4.jar:
+			https://minecraft.curseforge.com/projects/discordsuite/files/2577684
+		DiscordSuite-2.2.2.jar:
+			https://minecraft.curseforge.com/projects/discordsuite/files/2560527
+		DiscordSuite-2.2.1.jar:
+			https://minecraft.curseforge.com/projects/discordsuite/files/2560045
+
+	Draconic Evolution (went from Draconic Evolution 1.12-2.3.11.290-universal to Draconic-Evolution-1.12.2-2.3.13.306-universal):
+		Draconic-Evolution-1.12.2-2.3.13.306-universal:
+			https://minecraft.curseforge.com/projects/draconic-evolution/files/2594711
+		Draconic-Evolution-1.12.2-2.3.12.304-universal:
+			https://minecraft.curseforge.com/projects/draconic-evolution/files/2593749
+		Draconic Evolution 1.12.2-2.3.12.297-universal:
+			https://minecraft.curseforge.com/projects/draconic-evolution/files/2575808
+
+	Dynamic Surroundings (went from DynamicSurroundings-1.12.2-3.4.9.14.jar to DynamicSurroundings-1.12.2-3.4.9.16.jar):
+		DynamicSurroundings-1.12.2-3.4.9.16.jar:
+			https://minecraft.curseforge.com/projects/dynamic-surroundings/files/2615434
+		DynamicSurroundings-1.12.2-3.4.9.15.jar:
+			https://minecraft.curseforge.com/projects/dynamic-surroundings/files/2611202
+
+	Dynamic Trees - Biomes O' Plenty Compat (went from DynamicTreesBOP-1.12.2-1.1d.jar to DynamicTreesBOP-1.12.2-1.2.jar):
+		DynamicTreesBOP-1.12.2-1.2.jar:
+			https://minecraft.curseforge.com/projects/dtbop/files/2577745
+
+	Dynamic Trees - Thaumcraft Compat (went from DynamicTreesTC-1.12.2-0.1b.jar to DynamicTreesTC-1.12.2-1.1.0.jar):
+		DynamicTreesTC-1.12.2-1.1.0.jar:
+			https://minecraft.curseforge.com/projects/dttc/files/2606678
+		DynamicTreesTC-1.12.2-1.0.jar:
+			https://minecraft.curseforge.com/projects/dttc/files/2577746
+
+	Ender IO (went from Ender IO - 5.0.26 to Ender IO - 5.0.31):
+		Ender IO - 5.0.31:
+			https://minecraft.curseforge.com/projects/ender-io/files/2597800
+		Ender IO - 5.0.30:
+			https://minecraft.curseforge.com/projects/ender-io/files/2596975
+		Ender IO - 5.0.29:
+			https://minecraft.curseforge.com/projects/ender-io/files/2579152
+
+	EnderCore (went from EnderCore - 1.12.2-0.5.31 to EnderCore - 1.12.2-0.5.37):
+		EnderCore - 1.12.2-0.5.37:
+			https://minecraft.curseforge.com/projects/endercore/files/2596969
+		EnderCore - 1.12.2-0.5.35:
+			https://minecraft.curseforge.com/projects/endercore/files/2578528
+
+	Exchangers (went from Exchangers-1.12.2-2.7.2.jar to Exchangers-1.12.2-2.7.3.jar):
+		Exchangers-1.12.2-2.7.3.jar:
+			https://minecraft.curseforge.com/projects/exchangers/files/2579652
+
+	Extra Utilities (went from Extra Utilities 2 - 1.12 - 1.7.6 to Extra Utilities 2 - 1.12 - 1.9.1):
+		Extra Utilities 2 - 1.12 - 1.9.1:
+			https://minecraft.curseforge.com/projects/extra-utilities/files/2611991
+		Extra Utilities 2 - 1.12 - 1.9.0:
+			https://minecraft.curseforge.com/projects/extra-utilities/files/2611876
+		Extra Utilities 2 - 1.12 - 1.8.5:
+			https://minecraft.curseforge.com/projects/extra-utilities/files/2605051
+		Extra Utilities 2 - 1.12 - 1.8.4:
+			https://minecraft.curseforge.com/projects/extra-utilities/files/2604208
+		Extra Utilities 2 - 1.12 - 1.8.3:
+			https://minecraft.curseforge.com/projects/extra-utilities/files/2601600
+		Extra Utilities 2 - 1.12 - 1.8.2:
+			https://minecraft.curseforge.com/projects/extra-utilities/files/2597220
+		Extra Utilities 2 - 1.12 - 1.8.1:
+			https://minecraft.curseforge.com/projects/extra-utilities/files/2583193
+		Extra Utilities 2 - 1.12 - 1.8.0:
+			https://minecraft.curseforge.com/projects/extra-utilities/files/2582891
+
+	ExtraCells2 (went from ExtraCells-1.12.2-2.5.13 to ExtraCells-1.12.2-2.5.13):
+		ExtraCells-1.12.2-2.5.13:
+			https://minecraft.curseforge.com/projects/extracells2/files/2574581
+
+	FTB Utilities (went from FTBUtilities-5.1.0.27.jar to FTBUtilities-5.3.0.49.jar):
+		FTBUtilities-5.3.0.49.jar:
+			https://minecraft.curseforge.com/projects/ftb-utilities/files/2614679
+		FTBUtilities-5.3.0.48.jar:
+			No changelog provided.
+		FTBUtilities-5.3.0.45.jar:
+			No changelog provided.
+		FTBUtilities-5.2.0.40.jar:
+			No changelog provided.
+		FTBUtilities-5.2.0.39.jar:
+			No changelog provided.
+		FTBUtilities-5.2.0.38.jar:
+			https://minecraft.curseforge.com/projects/ftb-utilities/files/2603927
+		FTBUtilities-5.2.0.37.jar:
+			https://minecraft.curseforge.com/projects/ftb-utilities/files/2601238
+		FTBUtilities-5.2.0.36.jar:
+			https://minecraft.curseforge.com/projects/ftb-utilities/files/2599602
+		FTBUtilities-5.2.0.35.jar:
+			https://minecraft.curseforge.com/projects/ftb-utilities/files/2598096
+		FTBUtilities-5.2.0.34.jar:
+			https://minecraft.curseforge.com/projects/ftb-utilities/files/2595514
+		FTBUtilities-5.2.0.33.jar:
+			https://minecraft.curseforge.com/projects/ftb-utilities/files/2594079
+		FTBUtilities-5.2.0.32.jar:
+			https://minecraft.curseforge.com/projects/ftb-utilities/files/2593383
+		FTBUtilities-5.2.0.31.jar:
+			https://minecraft.curseforge.com/projects/ftb-utilities/files/2591771
+		FTBUtilities-5.2.0.30.jar:
+			https://minecraft.curseforge.com/projects/ftb-utilities/files/2581840
+		FTBUtilities-5.2.0.29.jar:
+			https://minecraft.curseforge.com/projects/ftb-utilities/files/2579899
+		FTBUtilities-5.2.0.28.jar:
+			https://minecraft.curseforge.com/projects/ftb-utilities/files/2574530
+
+	FTBLib (went from FTBLib-5.1.0.22.jar to FTBLib-5.3.0.50.jar):
+		FTBLib-5.3.0.50.jar:
+			https://minecraft.curseforge.com/projects/ftblib/files/2614919
+		FTBLib-5.3.0.49.jar:
+			https://minecraft.curseforge.com/projects/ftblib/files/2614676
+		FTBLib-5.3.0.48.jar:
+			https://minecraft.curseforge.com/projects/ftblib/files/2612112
+		FTBLib-5.3.0.47.jar:
+			https://minecraft.curseforge.com/projects/ftblib/files/2610785
+		FTBLib-5.3.0.46.jar:
+			No changelog provided.
+		FTBLib-5.3.0.45.jar:
+			https://minecraft.curseforge.com/projects/ftblib/files/2610159
+		FTBLib-5.3.0.43.jar:
+			No changelog provided.
+		FTBLib-5.3.0.42.jar:
+			No changelog provided.
+		FTBLib-5.2.0.41.jar:
+			No changelog provided.
+		FTBLib-5.2.0.40.jar:
+			No changelog provided.
+		FTBLib-5.2.0.39.jar:
+			No changelog provided.
+		FTBLib-5.2.0.38.jar:
+			No changelog provided.
+		FTBLib-5.2.0.37.jar:
+			No changelog provided.
+		FTBLib-5.2.0.36.jar:
+			No changelog provided.
+		FTBLib-5.2.0.34.jar:
+			No changelog provided.
+		FTBLib-5.2.0.33.jar:
+			No changelog provided.
+		FTBLib-5.2.0.32.jar:
+			https://minecraft.curseforge.com/projects/ftblib/files/2603924
+		FTBLib-5.2.0.31.jar:
+			https://minecraft.curseforge.com/projects/ftblib/files/2601237
+		FTBLib-5.2.0.30.jar:
+			https://minecraft.curseforge.com/projects/ftblib/files/2599600
+		FTBLib-5.2.0.29.jar:
+			https://minecraft.curseforge.com/projects/ftblib/files/2597948
+		FTBLib-5.2.0.28.jar:
+			https://minecraft.curseforge.com/projects/ftblib/files/2594077
+		FTBLib-5.2.0.27.jar:
+			https://minecraft.curseforge.com/projects/ftblib/files/2593381
+		FTBLib-5.2.0.26.jar:
+			https://minecraft.curseforge.com/projects/ftblib/files/2591768
+		FTBLib-5.2.0.25.jar:
+			https://minecraft.curseforge.com/projects/ftblib/files/2581838
+		FTBLib-5.2.0.24.jar:
+			https://minecraft.curseforge.com/projects/ftblib/files/2579897
+		FTBLib-5.2.0.23.jar:
+			https://minecraft.curseforge.com/projects/ftblib/files/2574528
+
+	Farseek (went from Farseek-1.12-2.3.jar to Farseek-1.12-2.3.1.jar):
+		Farseek-1.12-2.3.1.jar:
+			https://minecraft.curseforge.com/projects/farseek/files/2583091
+
+	FoamFix for Minecraft (went from FoamFix 0.9.9.1 Anarchy (1.12.2) to FoamFix 0.10.1 (1.12.2)):
+		FoamFix 0.10.1 (1.12.2):
+			https://minecraft.curseforge.com/projects/foamfix-for-minecraft/files/2607163
+		FoamFix 0.10.0 (1.12.2):
+			https://minecraft.curseforge.com/projects/foamfix-for-minecraft/files/2601349
+
+	Forestry (went from forestry_1.12.2-5.8.0.302.jar to forestry_1.12.2-5.8.1.341.jar):
 		View changelog at:
-			https://minecraft.curseforge.com/projects/forestry/files/2572852
+			https://minecraft.curseforge.com/projects/forestry/files/2614634
 
-	Hammer Core (went from [Archived file] to [1.12.2] Hammer Core - 1.9.9.14):
-		[1.12.2] Hammer Core - 1.9.9.14:
-			https://minecraft.curseforge.com/projects/hammer-core/files/2572912
+	Hammer Core (went from [1.12.2] Hammer Core - 1.9.9.14 to [1.12.2] Hammer Core - 2.0.2.3):
+		[1.12.2] Hammer Core - 2.0.2.3:
+			https://minecraft.curseforge.com/projects/hammer-core/files/2612045
+		[1.12.2] Hammer Core - 2.0.2.2:
+			https://minecraft.curseforge.com/projects/hammer-core/files/2598918
+		[1.12.2] Hammer Core - 2.0.2.1:
+			https://minecraft.curseforge.com/projects/hammer-core/files/2597195
+		[1.12.2] Hammer Core - 2.0.1.2:
+			https://minecraft.curseforge.com/projects/hammer-core/files/2590301
+		[1.12.2] Hammer Core - 2.0.1.1:
+			https://minecraft.curseforge.com/projects/hammer-core/files/2590192
+		[1.12.2] Hammer Core - 2.0.0.4:
+			https://minecraft.curseforge.com/projects/hammer-core/files/2582530
+		[1.12.2] Hammer Core - 2.0.0.3:
+			https://minecraft.curseforge.com/projects/hammer-core/files/2580605
+		[1.12.2] Hammer Core - 2.0.0.2:
+			https://minecraft.curseforge.com/projects/hammer-core/files/2579820
+		[1.12.2] Hammer Core - 2.0.0.1:
+			https://minecraft.curseforge.com/projects/hammer-core/files/2577257
+		[1.12.2] Hammer Core - 1.9.9.17:
+			https://minecraft.curseforge.com/projects/hammer-core/files/2574975
+		[1.12.2] Hammer Core - 1.9.9.16:
+			https://minecraft.curseforge.com/projects/hammer-core/files/2574013
+		[1.12.2] Hammer Core - 1.9.9.15:
+			https://minecraft.curseforge.com/projects/hammer-core/files/2573595
 
-	Industrial Craft (went from industrialcraft-2-2.8.81-ex112.jar to industrialcraft-2-2.8.86-ex112.jar):
-		industrialcraft-2-2.8.86-ex112.jar:
-			https://minecraft.curseforge.com/projects/industrial-craft/files/2573291
-		industrialcraft-2-2.8.85-ex112.jar:
-			https://minecraft.curseforge.com/projects/industrial-craft/files/2572795
-		industrialcraft-2-2.8.84-ex112.jar:
-			https://minecraft.curseforge.com/projects/industrial-craft/files/2572020
-		industrialcraft-2-2.8.83-ex112.jar:
-			https://minecraft.curseforge.com/projects/industrial-craft/files/2567774
+	Immersive Cables (went from ImmersiveCables-1.12.2-1.3.0.jar to ImmersiveCables-1.12.2-1.3.2.jar):
+		ImmersiveCables-1.12.2-1.3.2.jar:
+			https://minecraft.curseforge.com/projects/immersive-cables/files/2595013
+		ImmersiveCables-1.12.2-1.3.1.jar:
+			https://minecraft.curseforge.com/projects/immersive-cables/files/2579102
 
-	Industrial Foregoing (went from industrialforegoing-1.12.2-1.10.0-173.jar to industrialforegoing-1.12.2-1.10.1-176.jar):
-		industrialforegoing-1.12.2-1.10.1-176.jar:
-			https://minecraft.curseforge.com/projects/industrial-foregoing/files/2572080
+	Immersive Engineering (went from Immersive Engineering 0.12 - 82 to Immersive Engineering 0.12 - 85):
+		Immersive Engineering 0.12 - 85:
+			https://minecraft.curseforge.com/projects/immersive-engineering/files/2609507
+		Immersive Engineering 0.12 - 84:
+			https://minecraft.curseforge.com/projects/immersive-engineering/files/2583282
+		Immersive Engineering 0.12 - 83:
+			https://minecraft.curseforge.com/projects/immersive-engineering/files/2580816
 
-	Just Enough Items (JEI) (went from jei_1.12.2-4.9.2.196.jar to jei_1.12.2-4.10.0.199.jar):
+	Industrial Craft (went from industrialcraft-2-2.8.86-ex112.jar to industrialcraft-2-2.8.99-ex112.jar):
+		industrialcraft-2-2.8.99-ex112.jar:
+			https://minecraft.curseforge.com/projects/industrial-craft/files/2614659
+		industrialcraft-2-2.8.97-ex112.jar:
+			https://minecraft.curseforge.com/projects/industrial-craft/files/2604635
+		industrialcraft-2-2.8.96-ex112.jar:
+			https://minecraft.curseforge.com/projects/industrial-craft/files/2597417
+		industrialcraft-2-2.8.95-ex112.jar:
+			https://minecraft.curseforge.com/projects/industrial-craft/files/2597404
+		industrialcraft-2-2.8.94-ex112.jar:
+			https://minecraft.curseforge.com/projects/industrial-craft/files/2590297
+		industrialcraft-2-2.8.93-ex112.jar:
+			https://minecraft.curseforge.com/projects/industrial-craft/files/2582879
+		industrialcraft-2-2.8.92-ex112.jar:
+			https://minecraft.curseforge.com/projects/industrial-craft/files/2581158
+		industrialcraft-2-2.8.91-ex112.jar:
+			https://minecraft.curseforge.com/projects/industrial-craft/files/2579507
+		industrialcraft-2-2.8.90-ex112.jar:
+			https://minecraft.curseforge.com/projects/industrial-craft/files/2576689
+		industrialcraft-2-2.8.89-ex112.jar:
+			https://minecraft.curseforge.com/projects/industrial-craft/files/2574389
+		industrialcraft-2-2.8.87-ex112.jar:
+			https://minecraft.curseforge.com/projects/industrial-craft/files/2574021
+
+	Industrial Foregoing (went from industrialforegoing-1.12.2-1.10.1-176.jar to industrialforegoing-1.12.2-1.11.2-212.jar):
+		industrialforegoing-1.12.2-1.11.2-212.jar:
+			https://minecraft.curseforge.com/projects/industrial-foregoing/files/2609759
+		industrialforegoing-1.12.2-1.11.1-206.jar:
+			https://minecraft.curseforge.com/projects/industrial-foregoing/files/2605204
+		industrialforegoing-1.12.2-1.11.0-205.jar:
+			https://minecraft.curseforge.com/projects/industrial-foregoing/files/2601636
+		industrialforegoing-1.12.2-1.10.7-204.jar:
+			https://minecraft.curseforge.com/projects/industrial-foregoing/files/2590485
+		industrialforegoing-1.12.2-1.10.6-192.jar:
+			https://minecraft.curseforge.com/projects/industrial-foregoing/files/2589108
+		industrialforegoing-1.12.2-1.10.5-189.jar:
+			https://minecraft.curseforge.com/projects/industrial-foregoing/files/2586817
+		industrialforegoing-1.12.2-1.10.4-187.jar:
+			https://minecraft.curseforge.com/projects/industrial-foregoing/files/2581971
+		industrialforegoing-1.12.2-1.10.3-181.jar:
+			https://minecraft.curseforge.com/projects/industrial-foregoing/files/2579769
+		industrialforegoing-1.12.2-1.10.2-178.jar:
+			https://minecraft.curseforge.com/projects/industrial-foregoing/files/2576724
+
+	Integration Foregoing (went from IntegrationForegoing-1.12.2-1.6.jar to IntegrationForegoing-1.12.2-1.7.4.jar):
+		IntegrationForegoing-1.12.2-1.7.4.jar:
+			https://minecraft.curseforge.com/projects/integration-foregoing/files/2610225
+		IntegrationForegoing-1.12.2-1.7.3.jar:
+			https://minecraft.curseforge.com/projects/integration-foregoing/files/2589211
+		IntegrationForegoing-1.12.2-1.7.2.jar:
+			https://minecraft.curseforge.com/projects/integration-foregoing/files/2581909
+		IntegrationForegoing-1.12.2-1.7.1.jar:
+			https://minecraft.curseforge.com/projects/integration-foregoing/files/2577315
+		IntegrationForegoing-1.12.2-1.7.jar:
+			https://minecraft.curseforge.com/projects/integration-foregoing/files/2574626
+
+	Iron Chests (went from ironchest-1.12.2-7.0.42.827.jar to ironchest-1.12.2-7.0.46.831.jar):
+		ironchest-1.12.2-7.0.46.831.jar:
+			https://minecraft.curseforge.com/projects/iron-chests/files/2595146
+		ironchest-1.12.2-7.0.45.830.jar:
+			https://minecraft.curseforge.com/projects/iron-chests/files/2594793
+		ironchest-1.12.2-7.0.44.829.jar:
+			https://minecraft.curseforge.com/projects/iron-chests/files/2573525
+		ironchest-1.12.2-7.0.43.828.jar:
+			https://minecraft.curseforge.com/projects/iron-chests/files/2573497
+
+	Just Enough HarvestCraft (JEHC) (went from [1.12.2] JEHC 1.5.1 to [1.12.2] JEHC 1.6.1):
+		[1.12.2] JEHC 1.6.1:
+			https://minecraft.curseforge.com/projects/just-enough-harvestcraft/files/2587544
+		[1.12.2] JEHC 1.6.0:
+			https://minecraft.curseforge.com/projects/just-enough-harvestcraft/files/2579543
+
+	Just Enough Items (JEI) (went from jei_1.12.2-4.10.0.199.jar to jei_1.12.2-4.12.0.216.jar):
 		View changelog at:
-			https://minecraft.curseforge.com/projects/jei/files/2572552
+			https://minecraft.curseforge.com/projects/jei/files/2613715
 
-	LibVulpes (went from LibVulpes 1.12.2-0.2.8-31-UNSTABLE build -31 for 1.12.2 to LibVulpes 1.12.2-0.2.8-32-UNSTABLE build -32 for 1.12.2):
-		LibVulpes 1.12.2-0.2.8-32-UNSTABLE build -32 for 1.12.2:
-			https://minecraft.curseforge.com/projects/libvulpes/files/2568853
+	LibVulpes (went from LibVulpes 1.12.2-0.2.8-32-UNSTABLE build -32 for 1.12.2 to LibVulpes 1.12.2-0.2.8-37-UNSTABLE build -37 for 1.12.2):
+		LibVulpes 1.12.2-0.2.8-37-UNSTABLE build -37 for 1.12.2:
+			https://minecraft.curseforge.com/projects/libvulpes/files/2603519
+		LibVulpes 1.12.2-0.2.8-36-UNSTABLE build -36 for 1.12.2:
+			https://minecraft.curseforge.com/projects/libvulpes/files/2591580
+		LibVulpes 1.12.2-0.2.8-35-UNSTABLE build -35 for 1.12.2:
+			https://minecraft.curseforge.com/projects/libvulpes/files/2591472
+		LibVulpes 1.12.2-0.2.8-34-UNSTABLE build -34 for 1.12.2:
+			https://minecraft.curseforge.com/projects/libvulpes/files/2587285
+		LibVulpes 1.12.2-0.2.8-33-UNSTABLE build -33 for 1.12.2:
+			https://minecraft.curseforge.com/projects/libvulpes/files/2585224
 
-	McJtyLib (went from mcjtylib-1.12-2.6.7.jar to McJtyLib - 1.12-3.0.1):
-		McJtyLib - 1.12-3.0.1:
-			https://minecraft.curseforge.com/projects/mcjtylib/files/2572061
-		McJtyLib - 1.12-3.0.0:
-			https://minecraft.curseforge.com/projects/mcjtylib/files/2569362
-		McJtyLib - 1.12-3.0.0-alpha:
-			https://minecraft.curseforge.com/projects/mcjtylib/files/2567259
+	Lycanites Mobs (went from Lycanites Mobs 1.20.3.0 to Lycanites Mobs 1.20.4.0):
+		Lycanites Mobs 1.20.4.0:
+			https://minecraft.curseforge.com/projects/lycanites-mobs/files/2597754
+		Lycanites Mobs 1.20.3.1:
+			https://minecraft.curseforge.com/projects/lycanites-mobs/files/2574726
 
-	OpenModularTurrets (went from openmodularturrets-1.12.2-3.0.1-254.jar to openmodularturrets-1.12.2-3.0.1-257.jar):
-		openmodularturrets-1.12.2-3.0.1-257.jar:
-			https://minecraft.curseforge.com/projects/openmodularturrets/files/2570330
-		openmodularturrets-1.12.2-3.0.1-255.jar:
-			https://minecraft.curseforge.com/projects/openmodularturrets/files/2569324
+	MCMultiPart (went from MCMultiPart 2.5.1 to MCMultiPart 2.5.2):
+		MCMultiPart 2.5.2:
+			https://minecraft.curseforge.com/projects/mcmultipart/files/2611656
 
-	RFTools (went from rftools-1.12-7.33.jar to RFTools - 1.12-7.53):
-		RFTools - 1.12-7.53:
-			https://minecraft.curseforge.com/projects/rftools/files/2572230
-		RFTools - 1.12-7.52:
-			https://minecraft.curseforge.com/projects/rftools/files/2572062
-		RFTools - 1.12-7.51:
-			https://minecraft.curseforge.com/projects/rftools/files/2569922
-		RFTools - 1.12-7.50:
-			https://minecraft.curseforge.com/projects/rftools/files/2569381
-		RFTools - 1.12-7.50-alpha:
-			https://minecraft.curseforge.com/projects/rftools/files/2567314
+	McJtyLib (went from McJtyLib - 1.12-3.0.1 to McJtyLib - 1.12-3.0.4):
+		McJtyLib - 1.12-3.0.4:
+			https://minecraft.curseforge.com/projects/mcjtylib/files/2604924
+		McJtyLib - 1.12-3.0.3:
+			https://minecraft.curseforge.com/projects/mcjtylib/files/2582232
+		McJtyLib - 1.12-3.0.2:
+			https://minecraft.curseforge.com/projects/mcjtylib/files/2574696
 
-	RFTools Control (went from rftoolsctrl-1.12-1.8.1.jar to RFToolsControl - 1.12-1.9.0):
-		RFToolsControl - 1.12-1.9.0:
-			https://minecraft.curseforge.com/projects/rftools-control/files/2569390
-		RFToolsControl - 1.12-1.9.0-alpha:
-			https://minecraft.curseforge.com/projects/rftools-control/files/2567296
+	Minecraft Forge (went from 1.12.2-14.23.4.2703 to 1.12.2-14.23.4.2755):
+		View changelog at:
+			https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.4.2758/forge-1.12.2-14.23.4.2758-changelog.txt
 
-	RFTools Dimensions (went from rftoolsdim-1.12-5.53.jar to RFToolsDimensions - 1.12-5.60):
-		RFToolsDimensions - 1.12-5.60:
-			https://minecraft.curseforge.com/projects/rftools-dimensions/files/2569383
-		RFToolsDimensions - 1.12-5.60-alpha:
-			https://minecraft.curseforge.com/projects/rftools-dimensions/files/2567299
+	MrCrayfish's Furniture Mod (went from Furniture Mod 4.2.0 to Furniture Mod 5.9.1):
+		Furniture Mod 5.9.1:
+			https://minecraft.curseforge.com/projects/mrcrayfish-furniture-mod/files/2614615
+		Furniture Mod 5.9.0:
+			https://minecraft.curseforge.com/projects/mrcrayfish-furniture-mod/files/2614542
+		Furniture Mod 5.8.0:
+			https://minecraft.curseforge.com/projects/mrcrayfish-furniture-mod/files/2611207
+		Furniture Mod 5.7.0:
+			https://minecraft.curseforge.com/projects/mrcrayfish-furniture-mod/files/2607995
+		Furniture Mod 5.6.1:
+			https://minecraft.curseforge.com/projects/mrcrayfish-furniture-mod/files/2606105
+		Furniture Mod 5.6.0:
+			https://minecraft.curseforge.com/projects/mrcrayfish-furniture-mod/files/2605169
+		Furniture Mod 5.5.1:
+			https://minecraft.curseforge.com/projects/mrcrayfish-furniture-mod/files/2603091
+		Furniture Mod 5.5.0:
+			https://minecraft.curseforge.com/projects/mrcrayfish-furniture-mod/files/2601617
+		Furniture Mod 5.4.1:
+			https://minecraft.curseforge.com/projects/mrcrayfish-furniture-mod/files/2593908
+		Furniture Mod 5.3.1:
+			https://minecraft.curseforge.com/projects/mrcrayfish-furniture-mod/files/2589570
+		Furniture Mod 5.3.0:
+			https://minecraft.curseforge.com/projects/mrcrayfish-furniture-mod/files/2587658
+		Furniture Mod 5.2.1:
+			https://minecraft.curseforge.com/projects/mrcrayfish-furniture-mod/files/2582719
+		Furniture Mod 5.2.0:
+			https://minecraft.curseforge.com/projects/mrcrayfish-furniture-mod/files/2582078
+		Furniture Mod 5.1.0:
+			https://minecraft.curseforge.com/projects/mrcrayfish-furniture-mod/files/2577120
+		Furniture Mod 5.0.0:
+			https://minecraft.curseforge.com/projects/mrcrayfish-furniture-mod/files/2577119
 
-	RFTools Power (went from rftoolspower-1.12-1.0.0.jar to RFToolsPower - 1.12-1.1.0):
-		RFToolsPower - 1.12-1.1.0:
-			https://minecraft.curseforge.com/projects/rftools-power/files/2569391
-		RFToolsPower - 1.12-1.1.0-alpha:
-			https://minecraft.curseforge.com/projects/rftools-power/files/2567326
+	Mystcraft (went from mystcraft-1.12.2-0.13.4.03.jar to mystcraft-1.12.2-0.13.6.00.jar):
+		mystcraft-1.12.2-0.13.6.00.jar:
+			https://minecraft.curseforge.com/projects/mystcraft/files/2589045
+		mystcraft-1.12.2-0.13.5.03.jar:
+			https://minecraft.curseforge.com/projects/mystcraft/files/2587729
+		mystcraft-1.12.2-0.13.5.02.jar:
+			https://minecraft.curseforge.com/projects/mystcraft/files/2587500
+		mystcraft-1.12.2-0.13.5.01.jar:
+			https://minecraft.curseforge.com/projects/mystcraft/files/2584341
+		mystcraft-1.12.2-0.13.5.00.jar:
+			https://minecraft.curseforge.com/projects/mystcraft/files/2583214
+		mystcraft-1.12.2-0.13.4.05.jar:
+			https://minecraft.curseforge.com/projects/mystcraft/files/2581550
+		mystcraft-1.12.2-0.13.4.04.jar:
+			https://minecraft.curseforge.com/projects/mystcraft/files/2581192
 
-	Serene Seasons (went from SereneSeasons-1.12.2-1.2.2-universal.jar to SereneSeasons-1.12.2-1.2.3-universal.jar):
-		SereneSeasons-1.12.2-1.2.3-universal.jar:
-			https://minecraft.curseforge.com/projects/serene-seasons/files/2569832
+	Natura (went from natura-1.12.2-4.3.2.49.jar to natura-1.12.2-4.3.2.62.jar):
+		natura-1.12.2-4.3.2.62.jar:
+			https://minecraft.curseforge.com/projects/natura/files/2593539
 
-	Shadowfacts' Forgelin (went from Forgelin-1.6.0.jar to Forgelin-1.7.4.jar):
-		Forgelin-1.7.4.jar:
-			https://minecraft.curseforge.com/projects/shadowfacts-forgelin/files/2573311
-		Forgelin-1.7.2.jar:
-			https://minecraft.curseforge.com/projects/shadowfacts-forgelin/files/2571478
+	NetherEx (went from NetherEx-1.12-2.1.14.15.jar to NetherEx-1.12.2-2.0.8.jar):
+		NetherEx-1.12.2-2.0.8.jar:
+			https://minecraft.curseforge.com/projects/netherex/files/2607787
+		NetherEx-1.12.2-2.0.7.jar:
+			https://minecraft.curseforge.com/projects/netherex/files/2607300
+		NetherEx-1.12.2-2.0.6.jar:
+			https://minecraft.curseforge.com/projects/netherex/files/2601912
+		NetherEx-1.12.2-2.0.5.jar:
+			https://minecraft.curseforge.com/projects/netherex/files/2598678
+		NetherEx-1.12.2-2.0.4.jar:
+			https://minecraft.curseforge.com/projects/netherex/files/2593995
+		NetherEx-1.12.2-2.0.3.jar:
+			https://minecraft.curseforge.com/projects/netherex/files/2593566
+		NetherEx-1.12.2-2.0.2.jar:
+			https://minecraft.curseforge.com/projects/netherex/files/2591316
+		NetherEx-1.12.2-2.0.1.jar:
+			https://minecraft.curseforge.com/projects/netherex/files/2591000
+		NetherEx-1.12.2-2.0.0.jar:
+			https://minecraft.curseforge.com/projects/netherex/files/2590873
 
-	Thaumic JEI (went from ThaumicJEI-1.12.2-1.3.0-11.jar to ThaumicJEI-1.12.2-1.4.0-14.jar):
-		ThaumicJEI-1.12.2-1.4.0-14.jar:
-			https://minecraft.curseforge.com/projects/thaumic-jei/files/2571662
-		ThaumicJEI-1.12.2-1.3.1-12.jar:
-			https://minecraft.curseforge.com/projects/thaumic-jei/files/2568938
+	OMLib (went from omlib-1.12.2-3.0.0-148.jar to omlib-1.12.2-3.0.1-162.jar):
+		omlib-1.12.2-3.0.1-162.jar:
+			https://minecraft.curseforge.com/projects/omlib/files/2608899
 
-	The One Probe (went from theoneprobe-1.12-1.4.22.jar to TheOneProbe - 1.12-1.4.23):
-		TheOneProbe - 1.12-1.4.23:
-			https://minecraft.curseforge.com/projects/the-one-probe/files/2569399
-		theoneprobe-1.12-1.4.23-alpha.jar:
-			https://minecraft.curseforge.com/projects/the-one-probe/files/2567329
+	OpenModularTurrets (went from openmodularturrets-1.12.2-3.0.1-257.jar to openmodularturrets-1.12.2-3.0.1-264.jar):
+		openmodularturrets-1.12.2-3.0.1-264.jar:
+			https://minecraft.curseforge.com/projects/openmodularturrets/files/2608988
 
-	Thermal Dynamics (went from [Archived file] to ThermalDynamics-1.12.2-2.5.1.14-universal.jar):
-		ThermalDynamics-1.12.2-2.5.1.14-universal.jar:
-			https://minecraft.curseforge.com/projects/thermal-dynamics/files/2569008
+	Oreberries (went from 0.4.0 for 1.12.x to 0.5.0 for 1.12.x):
+		0.5.0 for 1.12.x:
+			https://minecraft.curseforge.com/projects/oreberries/files/2578045
+		0.4.1 for 1.12.x:
+			https://minecraft.curseforge.com/projects/oreberries/files/2573378
 
-	Tinkers Construct (went from TConstruct-1.12.2-2.10.1.84.jar to TConstruct-1.12.2-2.10.1.87.jar):
-		TConstruct-1.12.2-2.10.1.87.jar:
-			https://minecraft.curseforge.com/projects/tinkers-construct/files/2571785
+	Pam's HarvestCraft (went from Pam's HarvestCraft 1.12.2u.jar to Pam's HarvestCraft 1.12.2y.jar):
+		Pam's HarvestCraft 1.12.2y.jar:
+			https://minecraft.curseforge.com/projects/pams-harvestcraft/files/2607341
+		Pam's HarvestCraft 1.12.2x.jar:
+			https://minecraft.curseforge.com/projects/pams-harvestcraft/files/2605124
+		Pam's HarvestCraft 1.12.2w.jar:
+			https://minecraft.curseforge.com/projects/pams-harvestcraft/files/2602900
+		Pam's HarvestCraft 1.12.2v.jar:
+			https://minecraft.curseforge.com/projects/pams-harvestcraft/files/2602087
 
-	Tinkers' Tool Leveling (went from TinkerToolLeveling-1.12-1.0.4.jar to TinkerToolLeveling-1.12.2-1.0.5.jar):
-		TinkerToolLeveling-1.12.2-1.0.5.jar:
-			https://minecraft.curseforge.com/projects/tinkers-tool-leveling/files/2570118
+	Placebo (went from Placebo-1.12.2-1.3.4.jar to Placebo-1.12.2-1.4.1.jar):
+		Placebo-1.12.2-1.4.1.jar:
+			https://minecraft.curseforge.com/projects/placebo/files/2600853
+		Placebo-1.12.2-1.4.0.jar:
+			https://minecraft.curseforge.com/projects/placebo/files/2575473
 
-	Underground Biomes (went from UndergroundBiomesConstructs-1.12-1.1.5.jar to UndergroundBiomesConstructs-1.12-1.2.0.jar):
-		UndergroundBiomesConstructs-1.12-1.2.0.jar:
-			https://minecraft.curseforge.com/projects/underground-biomes/files/2570628
+	Plants (went from Plants-1.12.2-2.8.6.jar to Plants-1.12.2-2.10.3.jar):
+		Plants-1.12.2-2.10.3.jar:
+			https://minecraft.curseforge.com/projects/plants/files/2605759
+		Plants-1.12.2-2.10.2.jar:
+			https://minecraft.curseforge.com/projects/plants/files/2603710
+		Plants-1.12.2-2.10.1.jar:
+			https://minecraft.curseforge.com/projects/plants/files/2600905
+		Plants-1.12.2-2.10.0.jar:
+			https://minecraft.curseforge.com/projects/plants/files/2600878
+		Plants-1.12.2-2.9.2.jar:
+			https://minecraft.curseforge.com/projects/plants/files/2579109
+		Plants-1.12.2-2.9.1.jar:
+			https://minecraft.curseforge.com/projects/plants/files/2575915
+		Plants-1.12.2-2.9.0.jar:
+			https://minecraft.curseforge.com/projects/plants/files/2575570
+		Plants-1.12.2-2.8.7.jar:
+			https://minecraft.curseforge.com/projects/plants/files/2573703
 
-	Unloader (went from unloader-1.1.0.jar to unloader-1.2.0.jar):
-		unloader-1.2.0.jar:
-			https://minecraft.curseforge.com/projects/unloader/files/2572528
+	RFTools (went from RFTools - 1.12-7.53 to RFTools - 1.12-7.55):
+		RFTools - 1.12-7.55:
+			https://minecraft.curseforge.com/projects/rftools/files/2581913
+		RFTools - 1.12-7.54:
+			https://minecraft.curseforge.com/projects/rftools/files/2574699
 
-	VanillaFix (went from VanillaFix-1.0.7-72.jar to VanillaFix-1.0.8-88.jar):
-		VanillaFix-1.0.8-88.jar:
-			https://minecraft.curseforge.com/projects/vanillafix/files/2570263
+	RFTools Control (went from RFToolsControl - 1.12-1.9.0 to RFToolsControl - 1.12-1.9.1):
+		RFToolsControl - 1.12-1.9.1:
+			https://minecraft.curseforge.com/projects/rftools-control/files/2574700
 
-	Whoosh (went from Whoosh-1.12.2-0.1.10-universal.jar to Whoosh 0.1.11.1):
-		Whoosh 0.1.11.1:
-			https://minecraft.curseforge.com/projects/whoosh/files/2570979
+	RFTools Power (went from RFToolsPower - 1.12-1.1.0 to RFToolsPower - 1.12-1.1.1):
+		RFToolsPower - 1.12-1.1.1:
+			https://minecraft.curseforge.com/projects/rftools-power/files/2578676
 
-Removed:
-	- Deleted project
+	Security Craft (went from [1.12/.1/.2] SecurityCraft v1.8.4.1.jar to [1.12/.1/.2] SecurityCraft v1.8.7.jar):
+		[1.12/.1/.2] SecurityCraft v1.8.7.jar:
+			https://minecraft.curseforge.com/projects/security-craft/files/2608304
+		[1.12/.1/.2] SecurityCraft v1.8.6.jar:
+			https://minecraft.curseforge.com/projects/security-craft/files/2587785
+		[1.12/.1/.2] SecurityCraft v1.8.5.jar:
+			https://minecraft.curseforge.com/projects/security-craft/files/2580739
 
-* Generated using https://github.com/TheRandomLabs/ChangelogGenerator (1.9.4)
+	Serene Seasons (went from SereneSeasons-1.12.2-1.2.3-universal.jar to SereneSeasons-1.12.2-1.2.6-universal.jar):
+		SereneSeasons-1.12.2-1.2.6-universal.jar:
+			https://minecraft.curseforge.com/projects/serene-seasons/files/2597384
+		SereneSeasons-1.12.2-1.2.5-universal.jar:
+			https://minecraft.curseforge.com/projects/serene-seasons/files/2595558
+		SereneSeasons-1.12.2-1.2.4-universal.jar:
+			https://minecraft.curseforge.com/projects/serene-seasons/files/2594439
+
+	Solar Flux Reborn (went from [1.12.2] Solar Flux Reborn - 3.50r to [1.12.2] Solar Flux Reborn - 4.12r):
+		[1.12.2] Solar Flux Reborn - 4.12r:
+			No changelog provided.
+		[1.12.2] Solar Flux Reborn - 4.10r:
+			No changelog provided.
+		[1.12.2] Solar Flux Reborn - 3.60a:
+			No changelog provided.
+
+	Storage Drawers (went from StorageDrawers-1.12.2-5.3.6.jar to StorageDrawers-1.12.2-5.3.7.jar):
+		StorageDrawers-1.12.2-5.3.7.jar:
+			https://minecraft.curseforge.com/projects/storage-drawers/files/2576611
+
+	Tesla Core Lib (went from Tesla Core Lib : 1.0.14.10 to Tesla Core Lib : 1.0.15.13):
+		Tesla Core Lib : 1.0.15.13:
+			https://minecraft.curseforge.com/projects/tesla-core-lib/files/2580052
+
+	Thaumcraft (went from Thaumcraft-1.12.2-6.1.BETA13.jar to Thaumcraft-1.12.2-6.1.BETA24.jar):
+		Thaumcraft-1.12.2-6.1.BETA24.jar:
+			https://minecraft.curseforge.com/projects/thaumcraft/files/2614113
+		Thaumcraft-1.12.2-6.1.BETA23.jar:
+			https://minecraft.curseforge.com/projects/thaumcraft/files/2607849
+		Thaumcraft-1.12.2-6.1.BETA22.jar:
+			https://minecraft.curseforge.com/projects/thaumcraft/files/2603537
+		Thaumcraft-1.12.2-6.1.BETA21.jar:
+			https://minecraft.curseforge.com/projects/thaumcraft/files/2599798
+		Thaumcraft-1.12.2-6.1.BETA20.jar:
+			https://minecraft.curseforge.com/projects/thaumcraft/files/2597126
+		Thaumcraft-1.12.2-6.1.BETA19.jar:
+			https://minecraft.curseforge.com/projects/thaumcraft/files/2587290
+		Thaumcraft-1.12.2-6.1.BETA17.jar:
+			https://minecraft.curseforge.com/projects/thaumcraft/files/2578520
+		Thaumcraft-1.12.2-6.1.BETA16.jar:
+			https://minecraft.curseforge.com/projects/thaumcraft/files/2569273
+		Thaumcraft-1.12.2-6.1.BETA15.jar:
+			https://minecraft.curseforge.com/projects/thaumcraft/files/2565186
+		Thaumcraft-1.12.2-6.1.BETA14.jar:
+			https://minecraft.curseforge.com/projects/thaumcraft/files/2564655
+
+	Thaumic JEI (went from ThaumicJEI-1.12.2-1.4.0-14.jar to ThaumicJEI-1.12.2-1.5.3-20.jar):
+		ThaumicJEI-1.12.2-1.5.3-20.jar:
+			https://minecraft.curseforge.com/projects/thaumic-jei/files/2603256
+		ThaumicJEI-1.12.2-1.5.2-19.jar:
+			https://minecraft.curseforge.com/projects/thaumic-jei/files/2600095
+		ThaumicJEI-1.12.2-1.5.1-17.jar:
+			https://minecraft.curseforge.com/projects/thaumic-jei/files/2598470
+		ThaumicJEI-1.12.2-1.5.0-16.jar:
+			https://minecraft.curseforge.com/projects/thaumic-jei/files/2598329
+
+	The Twilight Forest (went from Twilight Forest - MC 1.12.2 - 3.7.424 to Twilight Forest - MC 1.12.2 - 3.8.654):
+		Twilight Forest - MC 1.12.2 - 3.8.654:
+			https://minecraft.curseforge.com/projects/the-twilight-forest/files/2605275
+
+	Underground Biomes (went from UndergroundBiomesConstructs-1.12-1.2.0.jar to UndergroundBiomesConstructs-1.12-1.2.1.jar):
+		UndergroundBiomesConstructs-1.12-1.2.1.jar:
+			https://minecraft.curseforge.com/projects/underground-biomes/files/2578006
+
+	UniDict (went from UniDict-1.12.2-2.5c.jar to UniDict-1.12.2-2.7b.jar):
+		UniDict-1.12.2-2.7b.jar:
+			https://minecraft.curseforge.com/projects/unidict/files/2609035
+		UniDict-1.12.2-2.7.jar:
+			https://minecraft.curseforge.com/projects/unidict/files/2607608
+		UniDict-1.12.2-2.6.jar:
+			https://minecraft.curseforge.com/projects/unidict/files/2600127
+		UniDict-1.12.2-2.5f.jar:
+			https://minecraft.curseforge.com/projects/unidict/files/2581238
+		UniDict-1.12.2-2.5e.jar:
+			https://minecraft.curseforge.com/projects/unidict/files/2579470
+		UniDict-1.12.2-2.5d.jar:
+			https://minecraft.curseforge.com/projects/unidict/files/2575912
+
+	Unlimited Chisel Works (went from Unlimited Chisel Works 0.1.12 to Unlimited Chisel Works 0.2.0):
+		Unlimited Chisel Works 0.2.0:
+			https://minecraft.curseforge.com/projects/unlimited-chisel-works/files/2586932
+
+	VanillaFix (went from VanillaFix-1.0.8-88.jar to VanillaFix-1.0.9-97.jar):
+		VanillaFix-1.0.9-97.jar:
+			https://minecraft.curseforge.com/projects/vanillafix/files/2574249
+
+	Waystones (went from Waystones_1.12.2-4.0.43.jar to Waystones_1.12.2-4.0.63.jar):
+		Waystones_1.12.2-4.0.63.jar:
+			https://minecraft.curseforge.com/projects/waystones/files/2613865
+		Waystones_1.12.2-4.0.62.jar:
+			https://minecraft.curseforge.com/projects/waystones/files/2612128
+		Waystones_1.12.2-4.0.54.jar:
+			https://minecraft.curseforge.com/projects/waystones/files/2595479
+		Waystones_1.12.2-4.0.53.jar:
+			https://minecraft.curseforge.com/projects/waystones/files/2593302
+		Waystones_1.12.2-4.0.49.jar:
+			https://minecraft.curseforge.com/projects/waystones/files/2582044
+
+	Wireless Crafting Terminal (went from WirelessCraftingTerminal-1.12.2-3.9.64.jar to WirelessCraftingTerminal-1.12.2-3.10.80.jar (RV6)):
+		WirelessCraftingTerminal-1.12.2-3.10.80.jar (RV6):
+			https://minecraft.curseforge.com/projects/wireless-crafting-terminal/files/2612298
+		WirelessCraftingTerminal-1.12.2-3.9.67.jar (RV5):
+			https://minecraft.curseforge.com/projects/wireless-crafting-terminal/files/2591010
+		WirelessCraftingTerminal-1.12.2-3.9.66 (RV5):
+			https://minecraft.curseforge.com/projects/wireless-crafting-terminal/files/2590604
+		WirelessCraftingTerminal-1.12.2-3.9.71.jar:
+			https://minecraft.curseforge.com/projects/wireless-crafting-terminal/files/2581110
+		WirelessCraftingTerminal-1.12.2-3.9.68.jar:
+			https://minecraft.curseforge.com/projects/wireless-crafting-terminal/files/2579019
+		WirelessCraftingTerminal-1.12.2-3.9.67.jar:
+			https://minecraft.curseforge.com/projects/wireless-crafting-terminal/files/2574743
+
+	p455w0rd's Library (went from p455w0rdslib-1.12-2.0.29.jar to p455w0rdslib-1.12-2.0.34.jar):
+		p455w0rdslib-1.12-2.0.34.jar:
+			https://minecraft.curseforge.com/projects/p455w0rds-library/files/2612651
+		p455w0rdslib-1.12-2.0.33.jar:
+			https://minecraft.curseforge.com/projects/p455w0rds-library/files/2611166
+		p455w0rdslib-1.12-2.0.32.jar:
+			https://minecraft.curseforge.com/projects/p455w0rds-library/files/2593671
+		p455w0rdslib-1.12-2.0.31.jar:
+			https://minecraft.curseforge.com/projects/p455w0rds-library/files/2593072
+
+* Generated using https://github.com/TheRandomLabs/ChangelogGenerator (1.10.3)
