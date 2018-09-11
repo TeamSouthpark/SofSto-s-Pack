@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "SofSto's Pack (1)",
-  "version": "2018-09-04",
+  "version": "2018-09-12",
   "author": "5t0rmr1d3r",
   "files": [
     {
@@ -232,7 +232,7 @@
     {
       "projectID": 282295,
       "fileID": 2545607,
-      "required": true
+      "required": false
     },
     {
       "projectID": 254334,
@@ -262,7 +262,7 @@
     {
       "projectID": 229218,
       "fileID": 2574581,
-      "required": true
+      "required": false
     },
     {
       "projectID": 229708,
@@ -575,11 +575,6 @@
       "required": true
     },
     {
-      "projectID": 282743,
-      "fileID": 2577684,
-      "required": true
-    },
-    {
       "projectID": 285628,
       "fileID": 2568195,
       "required": true
@@ -732,6 +727,11 @@
     {
       "projectID": 253043,
       "fileID": 2534271,
+      "required": true
+    },
+    {
+      "projectID": 297038,
+      "fileID": 2612621,
       "required": true
     }
   ],
