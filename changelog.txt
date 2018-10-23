@@ -2,6 +2,7 @@ SofSto's Pack (1) 2018-09-04 to SofSto's Pack (1) 2018-10-23
 
 Added:
 	- CraftPresence
+	- Ender IO Endergy
 
 Updated:
 	Advanced Rocketry (went from AdvancedRocketry 1.12.2-1.4.0-99-UNSTABLE build -99 for 1.12.2 to AdvancedRocketry 1.12.2-1.4.1-108-UNSTABLE build -108 for 1.12.2):
